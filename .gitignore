@@ -1,0 +1,16 @@
+# Node and frontend builds
+node_modules/
+dist/
+build/
+
+# Python (if used)
+__pycache__/
+*.py[cod]
+*.env
+
+# VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
